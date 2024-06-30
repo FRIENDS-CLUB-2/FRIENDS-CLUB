@@ -8,7 +8,7 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "FRIENDS-CLUB",
-  "PREFIX": "/",
+  "PREFIX": "!",
   "OPERATOR": [
     "22100035254937272",
     ""
